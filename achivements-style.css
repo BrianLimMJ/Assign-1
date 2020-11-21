@@ -52,12 +52,13 @@ nav a{
     justify-content: space-around;
     
 }
+
 .awards-img{
     display: block;
     padding: 3px;
     height: 275px;
     width: 275px;
-    
+    border-radius: 10px;
 }
 .text-container{
     margin: auto;
