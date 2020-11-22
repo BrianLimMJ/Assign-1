@@ -44,3 +44,31 @@ nav a{
     margin: auto;
     text-align: center;   
 }
+.Comment{
+    
+    padding: 10px;
+    width: 80%;
+    margin: auto;
+}
+.Comment form table{
+    width: 100%;
+}
+.Comment form table td{
+    width: 50%;
+}
+.Comment input{
+    display: block;
+    width:100%;
+}
+.formleft{
+    width: 80%;
+    margin: auto;
+}
+.comment-box{
+    width: 100%; margin: auto; height: 120px; margin-top: 35px;
+}
+
+input.submit{
+    display: block;margin: auto;margin-top: 15px;
+    width: 50%; padding: 10px;
+}
