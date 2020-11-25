@@ -43,7 +43,8 @@ nav a{
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: center;
-    background-color: #DCDCDC;
+    background-color: #E8E8E8;
+    border-radius: 20px;
 }
 
 .flex-intro img{

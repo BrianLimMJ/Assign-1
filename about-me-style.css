@@ -40,7 +40,8 @@ nav a{
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: space-evenly;
-    background-color: #DCDCDC;
+    background-color: #E8E8E8;
+    border-radius: 20px;
 }
 .row{
     margin: 25px;
