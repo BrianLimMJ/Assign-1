@@ -7,7 +7,7 @@ header{
     border-style: outset;
     border-color: #FFFFFF;
     background-color: #000000;
-    margin-bottom: 50px;
+    margin-bottom: 25px;
 }
 header nav ul{
     list-style: none;
@@ -33,7 +33,7 @@ nav a{
     font-family: Arial, Helvetica, sans-serif;  
 }
 .flex-intro{
-    margin-top: 50px;
+    margin-top: 20px;
     border: solid;
     border-width: 2px;
     padding: 50px;
@@ -71,5 +71,18 @@ nav a{
     padding: 25px;
 }
 
+footer{
+    border-style: outset;
+    border-color: #FFFFFF;
+    background-color: #000000;
+    margin-top: 31px;
+}
+footer .footer-text{
+    font-size: 15px;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif; 
+    text-align: center;
+}
+    
 
 
