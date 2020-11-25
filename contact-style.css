@@ -85,3 +85,13 @@ footer .footer-text{
     font-family: Arial, Helvetica, sans-serif; 
     text-align: center;
 }  
+/*Mobile 600px*/
+@media only screen and (min-width: 600px) {
+    footer{
+        border-style: outset;
+        border-color: #FFFFFF;
+        background-color: #000000;
+        margin-top: 280px;
+    
+    }
+}
