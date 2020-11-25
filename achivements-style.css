@@ -1,12 +1,12 @@
 body{
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
     margin: 0px;
-    
+    background-color: #A9A9A9;
 }
 header{
     border-style: outset;
     border-color: #FFFFFF;
-    background-color: #BEE9E8;
+    background-color: #000000;
     margin-bottom: 50px;
 }
     header nav ul{
@@ -28,7 +28,7 @@ header nav{
 nav a{
     
     font-size: 15px;
-    color: #000000;
+    color: #ffffff;
     
     font-family: Arial, Helvetica, sans-serif;  
 }
@@ -39,10 +39,12 @@ nav a{
     padding: 50px;
     margin: auto;
     width: 80%;
+    background-color: #E8E8E8;
 }
 .row{
     margin: auto;
-    text-align: center;   
+    text-align: center; 
+      
 }
 .awards-container{
     margin: 50px;
@@ -50,7 +52,7 @@ nav a{
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-around;
-    
+    background-color: #E8E8E8;
 }
 
 .awards-img{
@@ -62,6 +64,8 @@ nav a{
 }
 .text-container{
     margin: auto;
+    background-color: #F5F5F5;
+    border-radius: 15px;
 }
 .flex-achievements h2{
     margin: auto;
