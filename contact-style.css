@@ -39,7 +39,6 @@ nav a{
     padding: 50px;
     margin: auto;
     width: 80%;
-    
     background-color: #E8E8E8;
     border-radius: 20px;
     
@@ -51,7 +50,7 @@ nav a{
 }
 .Comment{
     padding: 10px;
-    width: 50%;
+    width: auto;
     margin: auto;
 }
 .Comment input{
@@ -71,7 +70,7 @@ input.submit{
     display: block;
     margin: auto;
     margin-top: 15px;
-    width: 50%; 
+    width: 35%; 
     padding: 10px;
 }
 footer{
