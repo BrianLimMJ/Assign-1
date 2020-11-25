@@ -83,11 +83,44 @@ footer .footer-text{
     font-family: Arial, Helvetica, sans-serif; 
     text-align: center;
 }
-@media only screen and (min-width: 600px) {
+@media only screen and (max-width: 600px) {
     header{
         margin-bottom: 35px;
     }
+    header nav ul{
+        list-style: none;
+        padding: 0px;
+        display: flex;
+        flex-wrap: wrap; 
+        flex-direction: column;
+        justify-content: space-evenly
+    }
+    header nav ul li{
+        text-align: center;
+    }
+    nav a{
+        font-size: 14px;
+    }
+    
+    .flex-intro{
+        width: 60%;
+        
+    }
+    .flex-intro img{
+        width: 250px;
+    }
+    .flex-intro .text{
+        margin: auto;
+        font-size: 9px;
+    }
+    footer{
+        margin-bottom: 8px;
+    }
+    
+
+    
 }
+
     
 
 

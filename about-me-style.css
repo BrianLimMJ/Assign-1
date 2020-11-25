@@ -69,9 +69,25 @@ footer .footer-text{
     font-family: Arial, Helvetica, sans-serif; 
     text-align: center;
 }
-@media only screen and (min-width: 600px) {
+@media only screen and (max-width: 600px) {
     header{
         margin-bottom: 35px;
     }
+    header nav ul{
+        list-style: none;
+        padding: 0px;
+        display: flex;
+        flex-wrap: wrap;
+         
+        flex-direction: column;
+        justify-content: space-around
+    }
+    header nav ul li{
+        text-align: center;
+    }
+    .flex-about{
+        width: 60%;
+    }
+    
 }
     

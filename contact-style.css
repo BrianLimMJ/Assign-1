@@ -86,12 +86,38 @@ footer .footer-text{
     text-align: center;
 }  
 /*Mobile 600px*/
-@media only screen and (min-width: 600px) {
-    footer{
-        border-style: outset;
-        border-color: #FFFFFF;
-        background-color: #000000;
-        margin-top: 280px;
-    
+@media only screen and (max-width: 600px) {
+    header{
+        margin-bottom: 35px;
+    }
+    header nav ul{
+        list-style: none;
+        padding: 0px;
+        display: flex;
+        flex-wrap: wrap; 
+        flex-direction: column;
+        justify-content: space-evenly
+    }
+    header nav ul li{
+        text-align: center;
+    }
+    nav a{
+        font-size: 14px;
+    }
+    .contact-container{
+        width: 65%;
+    }
+    .row{
+        width: 75%;
+    }
+    .Comment input{
+        width: 75%;
+    }
+    .comment-box{
+        width: 75%;
+    }
+    input.submit{
+        width: 65%;
+        
     }
 }

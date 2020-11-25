@@ -100,23 +100,44 @@ footer .footer-text{
 }  
 
 /*Mobile 600px*/
-@media only screen and (min-width: 600px) {
+@media only screen and (max-width: 600px) {
+    header{
+        margin-bottom: 35px;
+    }
+    header nav ul{
+        list-style: none;
+        padding: 0px;
+        display: flex;
+        flex-wrap: wrap; 
+        flex-direction: column;
+        justify-content: space-evenly
+    }
+    header nav ul li{
+        text-align: center;
+    }
+    nav a{
+        font-size: 14px;
+    }
+    .flex-achievements{
+        width: 60%;
+    }
     .awards-container{
-        margin: 50px;
+        
         display: flex;
         flex-direction: column;
         align-items: center;
         flex-wrap: wrap;
         justify-content: space-evenly;
         background-color: #F0F0F0; 
+        
     }
-    footer .footer-text{
-        font-size: 10px;
+    .awards-img{
+        height: 125px;
+        width: 125px;
+        
     }
-    
-    header{
-        margin-bottom: 35px;
+    .text-borders{
+        width: 60%;
     }
-    
 }
     
