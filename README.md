@@ -8,11 +8,14 @@ To repeat, it is for employers to view and hire me. I have made my website such 
 
 
 Features
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
 
 To start off, The navigation bar is filled with different href that upon click will bring the user to different webpages depending on which information they wish to view about me. 
+
 In the service webpage, the users are able to hover over the various services which are in a 'card' where  once hovered, there will be a slightly visible box shadow that changes colour to give it a pop out attribute.
-In the contact information webpage, users are able to fill out their own personal particulars if they wish to contact me either about my webpage of a job contract. Inside the form users must fill out their particulars in accordance to the guidelines as shown in the placeholder text. They are unable to give nonsensical particulars due to the patterns that i have implemented in the contact number as well as the email textboxes.
+
+In the contact information webpage, users are able to fill out their own personal particulars if they wish to contact me either about my webpage of a job contract. Inside the form users must fill out their particulars in accordance to the guidelines as shown in the placeholder text. They are unable to give invalid particulars due to the patterns that i have implemented in the contact number as well as the email textboxes if they did so, the website will prompt them to input valid particulars despite them still being able to submit the form.
+
+Every webpage has it's own flex box such that when resized the contents in which are inside the flex box will go according to how it was set. Certain webpages has media query such that it accomodates to the IphoneX's size and that the contents in the media query will change according to the height.
 
 Existing Features
 Feature 1 - allows users X to achieve Y, by having them fill out Z
@@ -20,9 +23,10 @@ Feature 1 - allows users X to achieve Y, by having them fill out Z
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 Features Left to Implement
-Another feature idea
+None
+
 Technologies Used
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+Aside from HTML, CSS and AdobeXD, i do not have any other technologies used.
 
 JQuery
 The project uses JQuery to simplify DOM manipulation.
