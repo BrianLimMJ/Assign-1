@@ -32,7 +32,7 @@ nav a{
     color: #ffffff;;
     font-family: Arial, Helvetica, sans-serif;  
 }
-.flex-education{
+.education-container{
     margin-top: 50px;
     border: solid;
     border-width: 2px;
@@ -117,7 +117,7 @@ footer .footer-text{
     nav a{
         font-size: 14px;
     }
-    .flex-education{
+    .education-container{
         width: 60%;
         
     }

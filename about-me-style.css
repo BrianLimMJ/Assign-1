@@ -33,7 +33,7 @@ nav a{
     color: #ffffff;
     font-family: Arial, Helvetica, sans-serif;  
 }
-.flex-about{
+.about-container{
     border: solid;
     border-width: 2px;
     padding: 50px;
@@ -85,7 +85,7 @@ footer .footer-text{
     header nav ul li{
         text-align: center;
     }
-    .flex-about{
+    .about-container{
         width: 60%;
     }
     

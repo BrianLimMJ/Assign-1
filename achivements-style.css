@@ -32,7 +32,7 @@ nav a{
     color: #ffffff;
     font-family: Arial, Helvetica, sans-serif;  
 }
-.flex-achievements{
+.achievement-container{
     margin-top: auto;
     border: solid;
     border-width: 2px;
@@ -68,7 +68,7 @@ nav a{
 .text-container{
     margin: auto;
 }
-.flex-achievements h2{
+.achievement-container h2{
     margin: auto;
 }
 .text-borders{
@@ -118,7 +118,7 @@ footer .footer-text{
     nav a{
         font-size: 14px;
     }
-    .flex-achievements{
+    .achievement-container{
         width: 60%;
     }
     .awards-container{

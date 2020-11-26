@@ -32,7 +32,7 @@ nav a{
     color: #ffffff;
     font-family: Arial, Helvetica, sans-serif;  
 }
-.flex-intro{
+.home-container{
     margin-top: 20px;
     border: solid;
     border-width: 2px;
@@ -47,29 +47,19 @@ nav a{
     border-radius: 20px;
 }
 
-.flex-intro img{
+.home-container img{
     width: 400px;
     background-size: cover;
     background-position: center;
 }
 
-.flex-intro .text{
+.home-container .text{
     text-align: center;
     padding: 55px;
     margin-top: 150px;
 }
 
-.flex-intro table{
-    width:50%;
-}
-.flex-intro table tr .Border{
-    border-style: outset;
-}
 
-.flex-intro table td{
-    text-align: center;
-    padding: 25px;
-}
 
 footer{
     border-style: outset;
@@ -102,14 +92,14 @@ footer .footer-text{
         font-size: 14px;
     }
     
-    .flex-intro{
+    .home-container{
         width: 60%;
         
     }
-    .flex-intro img{
+    .home-container img{
         width: 250px;
     }
-    .flex-intro .text{
+    .home-container .text{
         margin: auto;
         font-size: 9px;
     }
