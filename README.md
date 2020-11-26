@@ -4,11 +4,15 @@ Starting off, the purpose of this project is a personal branding website for fut
 The naming convention for all my files are detailed such that they are easy to recognize.
 
 Design Process
-To repeat, it is for employers to view and hire me.
+To repeat, it is for employers to view and hire me. I have made my website such that personal information about myself can be easily viewed such as my education, work experience et cetera. To add on, these informations are easily accessible on the navigation bar on the top of the page be it in mobile or desktop view. From a user/employer's point of view, upon first click onto the website, they would be greeted with a picture of myself and a small text containing "Welcome to my personal branding" this being the center of attention.
 
 
 Features
 In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+
+To start off, The navigation bar is filled with different href that upon click will bring the user to different webpages depending on which information they wish to view about me. 
+In the service webpage, the users are able to hover over the various services which are in a 'card' where  once hovered, there will be a slightly visible box shadow that changes colour to give it a pop out attribute.
+In the contact information webpage, users are able to fill out their own personal particulars if they wish to contact me either about my webpage of a job contract. Inside the form users must fill out their particulars in accordance to the guidelines as shown in the placeholder text. They are unable to give nonsensical particulars due to the patterns that i have implemented in the contact number as well as the email textboxes.
 
 Existing Features
 Feature 1 - allows users X to achieve Y, by having them fill out Z

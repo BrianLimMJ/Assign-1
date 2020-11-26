@@ -111,14 +111,20 @@ footer .footer-text{
     .row{
         width: 75%;
     }
-    .Comment input{
-        width: 80%;
+    .Comment{
+        padding: 8px;
     }
+    .Comment input{
+        width: 85%;
+        
+    }
+
     .comment-box{
-        width: 80%;
+        width: 85%;
     }
     input.submit{
         width: 65%;
         
     }
+   
 }
