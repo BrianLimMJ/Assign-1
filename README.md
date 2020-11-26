@@ -3,10 +3,13 @@ Your Project's Name
 Starting off, the purpose of this project is a personal branding website for future potential employers that will essentially view my website and decide if they would like to hire me after viewing my portfolio/resume. My project's name is ID_S10208584_Assignment1.
 The naming convention for all my files are detailed such that they are easy to recognize.
 
+-------------------------------------------------------------------------------------------------------------------------------------------
 Design Process
 To repeat, it is for employers to view and hire me. I have made my website such that personal information about myself can be easily viewed such as my education, work experience et cetera. To add on, these informations are easily accessible on the navigation bar on the top of the page be it in mobile or desktop view. From a user/employer's point of view, upon first click onto the website, they would be greeted with a picture of myself and a small text containing "Welcome to my personal branding" this being the center of attention.
 
+AdobeXD Wireframe share url: https://xd.adobe.com/view/897420f1-19de-4275-bd14-5293c02cdaf9-dc27/
 
+-------------------------------------------------------------------------------------------------------------------------------------------
 Features
 
 To start off, The navigation bar is filled with different href that upon click will bring the user to different webpages depending on which information they wish to view about me. 
@@ -17,17 +20,21 @@ In the contact information webpage, users are able to fill out their own persona
 
 Every webpage has it's own flex box such that when resized the contents in which are inside the flex box will go according to how it was set. Certain webpages has media query such that it accomodates to the IphoneX's size and that the contents in the media query will change according to the height.
 
+-------------------------------------------------------------------------------------------------------------------------------------------
 Existing Features
 Feature 1 - allows users X to achieve Y, by having them fill out Z
 ...
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
+(I have no clue what existing features vs features mean)
+-------------------------------------------------------------------------------------------------------------------------------------------
 Features Left to Implement
 None
 
+-------------------------------------------------------------------------------------------------------------------------------------------
 Technologies Used
 Aside from HTML, CSS and AdobeXD, i do not have any other technologies used.
 
+-------------------------------------------------------------------------------------------------------------------------------------------
 JQuery
 The project uses JQuery to simplify DOM manipulation.
 Testing
@@ -44,10 +51,10 @@ You should also mention in this section any interesting bugs or problems you dis
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
+For the contact form, i have made it such that it doesnt use JQuery but instead it is all in HTML
+-------------------------------------------------------------------------------------------------------------------------------------------
 Credits
-Content
-The text for section Y was copied from the Wikipedia article Z
 Media
-The photos used in this site were obtained from ...
+The photos used in this site were obtained from google such as the school logos/ work experience logos. However, the service images are all taken by my Lecturers in ITE when i was doing services for NYAA
 Acknowledgements
-I received inspiration for this project from X
+I received inspiration for this project from my previous project for ID on week 3 which is known as an about me. I dedicated time and effort to doing a simple project from Week 3 but i have changed a lot of the features on the assignment.
