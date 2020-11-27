@@ -47,12 +47,14 @@ nav a{
     border-radius: 20px;
 }
 
+
+/* my image inside .home-container */
 .home-container img{
     width: 400px;
     background-size: cover;
     background-position: center;
 }
-
+/* the texts inside .home-container */
 .home-container .text{
     text-align: center;
     padding: 55px;

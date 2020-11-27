@@ -51,36 +51,52 @@ nav a{
     text-align: center;   
     
 }
+
+/* the table/container that holds all the contents together */
 .Edu-table{
     border: 1;
     width: 100%;
     margin: auto;
 }
+
+/* the table rows of .Edu-table */
 .Edu-table tr{
     display: block; margin-top: 20px;
 }
+
+/* the headings for the .Edu-table */
 .Edu-table td h4,.Edu-table td p{
     text-align: left;
     margin-left: 20px;
 }
+
+/* self-explainatory */
 .Sch-logo{
     display: block;
     height: 60px;
     width: 60px;
     
 }
+
+/* .work-experience container */
 .work-experience{
     border: 1;
     width: 100%;
     margin: auto;
 }
+
+/* the table rows of .work-experience */
 .work-experience tr{
     display: block; margin-top: 20px;
 }
+
+/* the headings for .work-experience  */
 .work-experience td h4,.work-experience td p{
     text-align: left;
     margin-left: 20px;
 }
+
+/* .work-experience logos */
 .wrk-logo{
     display: block;
     height: 60px;

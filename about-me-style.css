@@ -1,15 +1,19 @@
+/* This makes everything inside the webpage to be the same */
 body{
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
     margin: 0px;
     background-color: #A9A9A9;
     
 }
+/* my header */
 header{
     border-style: outset;
     border-color: #FFFFFF;
     background-color: #000000;
     margin-bottom: 50px;
 }
+
+/* this is for the entire list that contains the href links */
 header nav ul{
     list-style: none;
     padding: 0px;
@@ -18,6 +22,8 @@ header nav ul{
     flex-direction: row;
     justify-content: center;
 }
+
+/* this displays each of the href links inside the list*/
 header nav ul li{
     display: inline-block;
     padding: 0px 15px;
@@ -28,11 +34,15 @@ header nav{
     display: block;
     width: 75%;
 }
+
+/* this is for each of the individual href links, not to be confused with the ul li above */
 nav a{
     font-size: 17px;
     color: #ffffff;
     font-family: Arial, Helvetica, sans-serif;  
 }
+
+/* The main content/container that needs to be flexed */
 .about-container{
     border: solid;
     border-width: 2px;
@@ -46,6 +56,8 @@ nav a{
     background-color: #E8E8E8;
     border-radius: 20px;
 }
+
+/* each of the separate tables inside about-container */
 .row{
     margin: 25px;
     text-align: center;   
@@ -57,18 +69,24 @@ nav a{
 .row li{
     padding: 8px;
 }
+/* 
+my footer */
 footer{
     border-style: outset;
     border-color: #FFFFFF;
     background-color: #000000;
     margin-top: 179px;
 }
+
+/* texts inside the footer */
 footer .footer-text{
     font-size: 15px;
     color: #ffffff;
     font-family: Arial, Helvetica, sans-serif; 
     text-align: center;
 }
+
+/* this is for when the screen is resized to 600px and below, adjusts accordingly*/
 @media only screen and (max-width: 600px) {
     header{
         margin-bottom: 35px;

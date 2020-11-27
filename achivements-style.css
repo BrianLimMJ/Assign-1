@@ -1,8 +1,10 @@
+/* This makes everything inside the webpage to be the same */
 body{
     font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
     margin: 0px;
     background-color: #A9A9A9;
 }
+/* my header */
 header{
     border-style: outset;
     border-color: #FFFFFF;
@@ -32,6 +34,7 @@ nav a{
     color: #ffffff;
     font-family: Arial, Helvetica, sans-serif;  
 }
+/* The main content/container that needs to be flexed */
 .achievement-container{
     margin-top: auto;
     border: solid;
@@ -49,6 +52,8 @@ nav a{
     border-radius: 20px;
       
 }
+
+/* this is the container that holds the images and is flexed when resized */
 .awards-container{
     margin: 50px;
     display: flex;
@@ -58,6 +63,7 @@ nav a{
     background-color: #F0F0F0; 
 }
 
+/* this is images insides the container as mentioned above */
 .awards-img{
     display: block;
     padding: 3px;
@@ -65,21 +71,30 @@ nav a{
     width: 275px;
     border-radius: 10px;
 }
+
+/* this is the container that contains everything below the .awards-container */
 .text-container{
     margin: auto;
 }
+
+/* this is the title "Achievements" */
 .achievement-container h2{
     margin: auto;
 }
+/* the container that serves as the border for the contents inside it */
 .text-borders{
     border-style:groove;
     border-radius: 15px;
     margin: 50px;
 }
+
+/* the text list inside .text-borders */
 .text-borders ul{
     list-style-type: none;
     margin: auto;
 }
+/* 
+the texts inside the text list */
 .text-borders ul li{
     
     text-align: center;

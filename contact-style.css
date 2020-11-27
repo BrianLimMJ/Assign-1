@@ -48,17 +48,22 @@ nav a{
     text-align: center;   
     width: 95%;
 }
+
+/* the container that holds all the inputs and comments */
 .Comment{
     padding: 10px;
     width: auto;
     margin: auto;
 }
+
+/* the input content inside the .Comment container */
 .Comment input{
     display: block;
     margin: auto;
     width: 50%;
 }
 
+/* the 'tell me anything' comment box */
 .comment-box{
     width: 50%; 
     margin: auto; 
@@ -66,6 +71,7 @@ nav a{
     margin-top: 35px;
 }
 
+/* the submit button */
 input.submit{
     display: block;
     margin: auto;
