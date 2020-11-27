@@ -57,6 +57,20 @@ For the contact form, i have made it such that it doesnt use JQuery but instead 
 -------------------------------------------------------------------------------------------------------------------------------------------
 Credits
 Media
-The photos used in this site were obtained from google such as the school logos/ work experience logos. However, the service images are all taken by my Lecturers in ITE when i was doing services for NYAA
+The photos used in this site were obtained from google/ and google takes it from the source such as the school logos/ work experience logos. 
+
+School Logo
+PEPS: https://princesselizabethpri.moe.edu.sg/about-us/school-crest
+Hua Yi: https://huayisec.moe.edu.sg/about-us/our-school-crest-anthem-n-history
+ITE West: https://www.google.com/search?q=ite+west+logo&tbm=isch&ved=2ahUKEwivtdORg6LtAhW-oUsFHTpHCtAQ2-cCegQIABAA&oq=ite+west+logo&gs_lcp=CgNpbWcQAzICCAAyBggAEAgQHjIGCAAQCBAeOgQIABBDOgUIABCxAzoHCAAQsQMQQzoECAAQGFC-5QFYgvABYLHxAWgAcAB4AIABYogBhQaSAQIxM5gBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=8ZLAX-_4O77DrtoPuo6pgA0&bih=748&biw=1282&rlz=1C1CHBF_enSG915SG915#imgrc=LxAGGHgmUnECXM
+Ngee Ann: https://www.np.edu.sg/PublishingImages/logo.png
+
+Work Logo
+Boost: https://www.capitaland.com/content/dam/capitaland-tenants/imported/en/-/media/cma-malls/websites/logos_560/b/boost%20juice%20bars560px%20w%20x%20462px11cc838d0fdc4f63b720d37546bcdb51560x462.png.transform/cap-lowres/image.png
+Soon Kueh: https://eatbook.sg/wp-content/uploads/2019/06/yong-soon-kueh-1024x1024.jpg
+Wallpaper: https://previews.123rf.com/images/audriusmerfeldas/audriusmerfeldas1905/audriusmerfeldas190500041/123833607-renovation-wallpaper-gluing-tools-and-other-equipment-in-flat-under-construction.jpg
+Dormitory img: https://www.straitstimes.com/sites/default/files/articles/2020/06/23/ST_20200623_P1YSDORM23_5760283.jpg
+
+However, the service images are all taken by my Lecturers in ITE when i was doing services for NYAA
 Acknowledgements
 I received inspiration for this project from my previous project for ID on week 3 which is known as an about me. I dedicated time and effort to doing a simple project from Week 3 but i have changed a lot of the features on the assignment.
