@@ -20,6 +20,8 @@ In the contact information webpage, users are able to fill out their own persona
 
 Every webpage has it's own flex box such that when resized the contents in which are inside the flex box will go according to how it was set. Certain webpages has media query such that it accomodates to the IphoneX's size and that the contents in the media query will change according to the height.
 
+There is also media query inside every html webpage. I have set it such that if the pixels go below 600px, the media query will activate and resize the contents down to the size in which the user has set it to.
+
 -------------------------------------------------------------------------------------------------------------------------------------------
 Existing Features
 Feature 1 - allows users X to achieve Y, by having them fill out Z
