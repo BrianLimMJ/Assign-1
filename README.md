@@ -1,4 +1,6 @@
 # Assign-1
+Github link: https://brianlimmj.github.io/ID_S10208584A_Brian_Assign1_website/
+
 Your Project's Name
 Starting off, the purpose of this project is a personal branding website for future potential employers that will essentially view my website and decide if they would like to hire me after viewing my portfolio/resume. My project's name is ID_S10208584_Assignment1.
 The naming convention for all my files are detailed such that they are easy to recognize.
